@@ -41,7 +41,7 @@ A Cardano-based escrow platform that verifies agents, lawyers, and property insp
 
 ## 🌐 Connect With Me
 - **LinkedIn:** [linkedin.com/in/kenechukwu-marvellous-egemonye-12156a2ba](https://www.linkedin.com/in/kenechukwu-marvellous-egemonye-12156a2ba)
-- **Email:** *[Your professional email here]*
+- **Email:** *[]*
 
 ---
 
