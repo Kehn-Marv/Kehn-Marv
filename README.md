@@ -31,8 +31,8 @@
 <h2 align="center">Kehn Marv's Github Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kehnmarv&count_private=true&show_icons=true&theme=dracula&line_height=33&cache_seconds=0" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kehnmarv&count_private=true&hide=html,css,scss&theme=dracula&line_height=10&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kehn-Marv&count_private=true&show_icons=true&theme=dracula&line_height=33" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kehn-Marv&count_private=true&hide=html,css,scss&theme=dracula&line_height=10" alt="Top Languages" />
 </p>
 
 ---
@@ -53,8 +53,8 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kehnmarv&label=Profile%20Views&color=F4B89A&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/stars/kehnmarv?label=Stars&style=flat&color=F4B89A" alt="Stars" />
-  <img src="https://img.shields.io/github/followers/kehnmarv?label=Followers&style=flat&color=F4B89A" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Kehn-Marv&label=Profile%20Views&color=F4B89A&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/stars/Kehn-Marv?label=Stars&style=flat&color=F4B89A" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/Kehn-Marv?label=Followers&style=flat&color=F4B89A" alt="Followers" />
   <img src="https://img.shields.io/badge/Thanks%20for%20visiting-!-F4B89A?style=flat" alt="Thanks" />
 </div>
