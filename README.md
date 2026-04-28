@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=F4B89A&size=50&center=true&vCenter=true&height=80&width=1000&lines=Heyyy!+I'm+Kehn+Marv+%F0%9F%A6%80;Every+choice+led+you+here...;Welcome+to+my+digital+workshop!;Backend+Developer+%7C+Rust+Obsessed;Building+advanced+algorithms;Solving+real-world+problems;If+it+compiles%2C+it+works.+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=F4B89A&size=50&center=true&vCenter=true&height=80&width=1000&lines=Heyyy!+I'm+Kehn+Marv+%F0%9F%A6%80;Every+choice+you've+made...;...led+you+here.;Welcome+to+my+github;%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94;Backend+dev.+Rust+obsessed.;Building+things+that+actually+matter.;Algorithms+that+solve+real+problems.;Systems+that+don't+break+at+3am.;%E2%80%9CIf+the+compiler+accepts+it...;...it+probably+works.%E2%80%9D+%F0%9F%94%A5;The+crab+didn't+choose+me.;I+chose+the+crab.+%F0%9F%A6%80" alt="Typing SVG" />
 </div>
 
 ---
@@ -31,7 +31,7 @@
 <h2 align="center">Kehn Marv's Github Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kehn-Marv&count_private=true&show_icons=true&theme=dracula&line_height=33" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kehn-Marv&count_private=true&show_icons=true&theme=dracula&line_height=33&include_all_commits=true&custom_title=Kehn%20Marv's%20GitHub%20Stats" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kehn-Marv&count_private=true&hide=html,css,scss&theme=dracula&line_height=10" alt="Top Languages" />
 </p>
 
