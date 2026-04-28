@@ -31,8 +31,8 @@
 <h2 align="center">Kehn Marv's Github Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kehnmarv&count_private=true&show_icons=true&theme=dracula&line_height=33" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kehnmarv&count_private=true&hide=html,css,scss&theme=dracula&line_height=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kehnmarv&count_private=true&show_icons=true&theme=dracula&line_height=33&cache_seconds=0" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kehnmarv&count_private=true&hide=html,css,scss&theme=dracula&line_height=10&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
