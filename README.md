@@ -40,9 +40,9 @@
 <p align="center"><i>Let's connect and chat! Find me on the web...</i></p>
 
 <p align="center">
-  <a href="https://x.com/kehnmarv"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>&nbsp;
-  <a href="https://linkedin.com/in/kehn-marv"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://kehnmarv.medium.com"><img src="https://cdn.simpleicons.org/medium/000000" width="48" height="48" alt="Medium" /></a>&nbsp;
+  <a href="https://x.com/kehnmarv"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
+  <a href="https://linkedin.com/in/kehn-marv"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://kehnmarv.medium.com"><img src="https://img.icons8.com/fluency/48/medium-logo.png" alt="Medium" /></a>
   <a href="https://www.instagram.com/kehn.marv"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
 </p>
 
