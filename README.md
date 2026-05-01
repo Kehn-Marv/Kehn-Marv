@@ -32,9 +32,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kehn-Marv" alt="Profile Details" />
-</p>
-
-<p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kehn-Marv&show_icons=true&layout=compact&langs_count=10&hide=html,tsql,scss,css" alt="Most Used Languages" />
 </p>
 
