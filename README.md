@@ -39,10 +39,10 @@
 
 <p align="center"><i>Let's connect and chat! Find me on the web...</i></p>
 
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <a href="https://kehnmarv.medium.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/medium.svg" width="48" height="48" style="filter: invert(1);" alt="Medium" /></a>
-  <a href="https://x.com/kehnmarv"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/x.svg" width="48" height="48" style="filter: invert(1);" alt="Twitter" /></a>
-  <a href="https://linkedin.com/in/kehn-marv"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="48" height="48" style="filter: invert(1);" alt="LinkedIn" /></a>
+<p align="center">
+  <a href="https://kehnmarv.medium.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/medium.svg" width="48" height="48" style="filter: invert(1);" alt="Medium" /></a>&nbsp;&nbsp;
+  <a href="https://x.com/kehnmarv"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/x.svg" width="48" height="48" style="filter: invert(1);" alt="Twitter" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/kehn-marv"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="48" height="48" style="filter: invert(1);" alt="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/kehn.marv"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" width="48" height="48" style="filter: invert(1);" alt="Instagram" /></a>
 </p>
 
