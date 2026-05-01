@@ -42,7 +42,7 @@
 <p align="center">
   <a href="https://x.com/kehnmarv"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
   <a href="https://linkedin.com/in/kehn-marv"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  <a href="https://kehnmarv.medium.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="48" height="48" alt="Medium" /></a>
+  <a href="https://kehnmarv.medium.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" width="48" alt="Medium" /></a>
   <a href="https://www.instagram.com/kehn.marv"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
 </p>
 
