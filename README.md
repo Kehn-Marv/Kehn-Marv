@@ -31,8 +31,11 @@
 <h2 align="center">Kehn Marv's Github Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kehn-Marv&count_private=true&show_icons=true&theme=dracula&line_height=33&include_all_commits=true&custom_title=Kehn%20Marv's%20GitHub%20Stats" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kehn-Marv&count_private=true&hide=html,css,scss&theme=dracula&line_height=10" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kehn-Marv" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kehn-Marv&show_icons=true&layout=compact&langs_count=10&hide=html,tsql,scss,css" alt="Most Used Languages" />
 </p>
 
 ---
