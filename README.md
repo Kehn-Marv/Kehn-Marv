@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img src="KEHN+RUST.png" alt="Kehn Marv Banner" width="100%"/>
+  <img src="KEHN+RUST.png?v=1" alt="Kehn Marv Banner" width="100%"/>
 </div>
 
 ---
