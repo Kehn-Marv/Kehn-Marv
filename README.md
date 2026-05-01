@@ -40,10 +40,10 @@
 <p align="center"><i>Let's connect and chat! Find me on the web...</i></p>
 
 <p align="center">
-  <a href="https://x.com/kehnmarv"><img src="https://img.shields.io/badge/-@kehnmarv-000000?style=flat&logo=X&logoColor=white" alt="X" /></a>
-  <a href="https://linkedin.com/in/kehn-marv"><img src="https://img.shields.io/badge/-Kehn%20Marv-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://kehnmarv.medium.com"><img src="https://img.shields.io/badge/-@kehnmarv-000000?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://www.instagram.com/kehn.marv"><img src="https://img.shields.io/badge/-@kehn.marv-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://x.com/kehnmarv"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
+  <a href="https://linkedin.com/in/kehn-marv"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://kehnmarv.medium.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" width="48" alt="Medium" /></a>
+  <a href="https://www.instagram.com/kehn.marv"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
 </p>
 
 ---
