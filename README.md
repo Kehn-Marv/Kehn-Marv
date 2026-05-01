@@ -31,11 +31,8 @@
 <h2 align="center">Kehn Marv's Github Stats</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kehn-Marv&theme=github" alt="Profile Details" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kehn-Marv&show_icons=true&layout=compact&langs_count=10&hide=html,tsql,scss,css" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kehn-Marv&theme=github" alt="Profile Details" style="width: 49%;" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kehn-Marv&show_icons=true&layout=compact&langs_count=10&hide=html,tsql,scss,css" alt="Most Used Languages" style="width: 49%;" />
 </p>
 
 ---
